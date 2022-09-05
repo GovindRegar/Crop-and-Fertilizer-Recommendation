@@ -1,5 +1,5 @@
 # Crop-and-Fertilizer-Recommendation
-Procedure:-
+Procedure :-
 
 •  Explored &  used Pandas, Numpy, Interact, Matplotlib, and Seaborn libraries to perform Univariate and Bivariate exploratory data analysis
 
@@ -7,11 +7,12 @@ Procedure:-
 
 •  Achieved an accuracy of 96% by experimenting on Logistic Regression, Decision Tree, Random Forest, and K-Mean Clustering
 
-Description In this project, an optimistic attempt has been made to support farmers; with the purpose to improve their farming productivity. 
+Description :-
+In this project, an optimistic attempt has been made to support farmers; with the purpose to improve their farming productivity. 
 Additionally, for doing so, a forecasting model has been developed by the use of machine learning; which can direct us, which crop will be
 best suitable for a specific climatic condition.
 
-Terms meaning
+Terms meaning :-
 N = Nitrogen
 P = phosphorous
 K = Potassium
